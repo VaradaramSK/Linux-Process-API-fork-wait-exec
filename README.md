@@ -62,7 +62,8 @@ int main(void)
 ## OUTPUT
 
 
-![alt text](image-1.png)
+<img width="1920" height="923" alt="Screenshot_2025-09-24_03_01_46" src="https://github.com/user-attachments/assets/102c864e-9481-4a61-9845-c955a002235c" />
+
 
 
 
