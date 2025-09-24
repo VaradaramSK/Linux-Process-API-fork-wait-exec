@@ -62,7 +62,7 @@ int main(void)
 ## OUTPUT
 
 
-<img width="1920" height="923" alt="Screenshot_2025-09-24_03_01_46" src="https://github.com/user-attachments/assets/102c864e-9481-4a61-9845-c955a002235c" />
+<img width="385" height="244" alt="Screenshot_2025-09-24_03-51-14" src="https://github.com/user-attachments/assets/e93951c7-828a-4583-9dd6-953be09d0286" />
 
 
 
