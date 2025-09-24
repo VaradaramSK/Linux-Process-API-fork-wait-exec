@@ -167,16 +167,12 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![alt text](<Screenshot from 2024-03-11 18-21-12.png>)
-
-![alt text](<Screenshot from 2024-03-11 18-21-18.png>)
+<img width="584" height="815" alt="image" src="https://github.com/user-attachments/assets/1f62631e-ad85-4818-b0d2-cbe889ff97ce" />
 
 
+<img width="1149" height="822" alt="image" src="https://github.com/user-attachments/assets/a742a01d-d630-4e3b-af53-789708747448" />
 
-![alt text](<Screenshot from 2024-03-11 18-21-24.png>)
-
-
-
+<img width="1898" height="846" alt="image" src="https://github.com/user-attachments/assets/31496b20-6b8f-488c-a561-38735c6d3296" />
 
 
 
