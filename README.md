@@ -109,7 +109,8 @@ exit(0);}
 ## OUTPUT
 
 
-![alt text](image.png)
+<img width="296" height="203" alt="image" src="https://github.com/user-attachments/assets/43129808-4f69-4e86-9934-5686deafd878" />
+
 
 
 
