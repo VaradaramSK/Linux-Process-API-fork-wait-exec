@@ -109,8 +109,8 @@ exit(0);}
 
 ## OUTPUT
 
+<img width="495" height="400" alt="image" src="https://github.com/user-attachments/assets/ee098bfe-6cd1-401e-991a-8ab610f1b35e" />
 
-<img width="296" height="203" alt="image" src="https://github.com/user-attachments/assets/43129808-4f69-4e86-9934-5686deafd878" />
 
 
 
