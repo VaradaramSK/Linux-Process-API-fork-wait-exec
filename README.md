@@ -62,7 +62,8 @@ int main(void)
 ## OUTPUT
 
 
-<img width="385" height="244" alt="Screenshot_2025-09-24_03-51-14" src="https://github.com/user-attachments/assets/e93951c7-828a-4583-9dd6-953be09d0286" />
+<img width="476" height="388" alt="image" src="https://github.com/user-attachments/assets/0482ee27-fabd-4efc-8a8e-16d72388e89f" />
+
 
 
 
@@ -173,6 +174,9 @@ printf("Running ps with execlp. Now with path specified\n");
 <img width="1149" height="822" alt="image" src="https://github.com/user-attachments/assets/a742a01d-d630-4e3b-af53-789708747448" />
 
 <img width="1898" height="846" alt="image" src="https://github.com/user-attachments/assets/31496b20-6b8f-488c-a561-38735c6d3296" />
+
+<img width="659" height="796" alt="image" src="https://github.com/user-attachments/assets/a46baf16-f252-42de-96c7-ff494313ab33" />
+
 
 
 
